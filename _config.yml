@@ -9,7 +9,11 @@
 title: Alexander J. Giles
 
 # Your name to show in the footer
-author: Alexander J. Giles
+author: 
+  name: Alexander J. Giles
+  email: "alexander.giles@gmail.com"
+  github: alexandergiles
+  twitter: AlexanderJGiles
 
 # --- List of links in the navigation bar --- #
 
