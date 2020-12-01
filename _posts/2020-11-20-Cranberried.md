@@ -27,7 +27,7 @@ As we determine the last seat to receive the sauce, we assign a probability to t
 | 8      | 1/256 |       | 1/256 |127/128|
 | 9      |       | 2/256 |       |255/256|
 
-  Note that the sum of all three columns are equal. In fact, the sum for each seat is equal to:
+The sum of all three columns are equal, and take the form:
   
   $$\sum_{k=1}^{\infty} 2^{-(k+1)} = \frac{1}{3}$$
 
