@@ -10,6 +10,9 @@ Consider a table with four seats. Numbering the seats as 0 for the starting posi
 As we determined the last seat to receive the sauce, we can assign a probability to that state (Pn). Summing the probabilities for each seat, after each pass, yields the following table:
 
   Note that the sum of all three columns are equal. In fact, the sum for each seat is equal to:
+  
+  $$\int_{\theta = 0}^\pi \sin(\theta) d\theta$$
+  
 $ 1!"# 1 !"2% =3 !%#
 We can simulate large numbers of such tables and observe a distribution that agrees with the analytical solution shown above. Below is such a simulation, using 106 four person tables, suggesting a probability of 0.334 ± 0.004 for each seat.
 While analytical strategies are not readily scalable to large numbers of seats, computer simulations are, and we find similarly flat distributions for 10-, 20-, and 100- person tables:
