@@ -31,8 +31,13 @@ The sum of all three columns are equal, and take the form:
   
   $$\sum_{k=1}^{\infty} 2^{-(k+1)} = \frac{1}{3}$$
 
-We can simulate large numbers of such tables and observe a distribution that agrees with the analytical solution shown above. Below is such a simulation, using 106 four person tables, suggesting a probability of 0.334 ± 0.004 for each seat.
+We can simulate large numbers of such tables and observe a distribution that agrees with the analytical solution shown above. Below is such a simulation, using 106 four person tables, suggesting a probability of 0.334 ± 0.004 for each seat:
+
+![Figure 2](/assets/img/cranberriedf2.png)
+
 While analytical strategies are not readily scalable to large numbers of seats, computer simulations are, and we find similarly flat distributions for 10-, 20-, and 100- person tables:
-   
- Specifically, our 20 person table (105 simulations) suggests a probability of 0.0529 ± 0.0025 for each seat. This is well within the margin of error for equal probabilities (1/19 = 0.05263) as proposed above.
+
+![Figure 3](/assets/img/cranberriedf3.png)
+
+Specifically, our 20 person table (105 simulations) suggests a probability of 0.0529 ± 0.0025 for each seat. This is well within the margin of error for equal probabilities (1/19 = 0.05263) as proposed above.
 Both the analytical and computational treatments suggest a surprising result: Each seat has an equal probability of being the last to receive the cranberry sauce.
