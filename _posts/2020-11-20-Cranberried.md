@@ -18,9 +18,9 @@ As we determined the last seat to receive the sauce, we can assign a probability
 | 4      | 1/16  |       | 1/16  | 7/8 |
 | 5      |       | 2/16  |       |15/16|
 | 6      | 1/64  |       | 1/64  |31/32|
-| 7      |       | 2/64  |       |31/32|
-| 8      | 1/256 |       | 1/256 |31/32|
-| 9      |       | 2/256 |       |31/32|
+| 7      |       | 2/64  |       |63/64|
+| 8      | 1/256 |       | 1/256 |127/128|
+| 9      |       | 2/256 |       |255/256|
 
   Note that the sum of all three columns are equal. In fact, the sum for each seat is equal to:
   
