@@ -17,6 +17,7 @@ navbar-links:
   About Me: 
      - Resume: "aboutme"
      - CV: "https://www.linkedin.com/in/alexandergiles/"
+  Research: "research"
   Google Scholar: "https://scholar.google.com/citations?user=RKQS3McAAAAJ&hl=en&oi=ao"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
