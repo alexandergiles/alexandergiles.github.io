@@ -21,7 +21,7 @@ Consider a table with four seats. Numbering the seats as 0 for the starting posi
 
 ![Figure 1](/assets/img/cranberried.png)
  
-As we determine the last seat to receive the sauce, we assign a probability to that state (_P<sub>n</sub>_). Summing the probabilities for each seat, after each pass, yields the following table:
+As we determine the last seat to receive the sauce, we assign a probability to that state (_P<sub>n</sub>_). Summing the probabilities yields the following table, which examines the likelyhood a given seat will be the last to receive the sauce after a number of passes. 
 
 
 | Passes | last = 1     | last = 2     | last = 3     | Probability resolved |
