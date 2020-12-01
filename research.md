@@ -6,7 +6,7 @@ permalink: /research/
 
 ---
 
-**DISTRIBUTION STATEMENT A. Approved for public release. Distribution is unlimited.**
+###### DISTRIBUTION STATEMENT A. Approved for public release. Distribution is unlimited.
 
 ### Ultralow-loss polaritons in isotopically pure boron nitride  
 _Abstract_
