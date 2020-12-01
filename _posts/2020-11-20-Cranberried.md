@@ -1,5 +1,5 @@
 ## Can You Pass The Cranberry Sauce? 
-[(FiveThirtyEight)](www.fivethiryeight.com)
+[(FiveThirtyEight)](https://fivethirtyeight.com/features/can-you-pass-the-cranberry-sauce/)
 
 coauthor: Ben Gould
 
