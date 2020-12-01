@@ -15,9 +15,10 @@ author: Alexander Giles
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Google Scholar: "https://scholar.google.com/citations?user=RKQS3McAAAAJ&hl=en&oi=ao"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
   LinkedIn : "https://www.linkedin.com/in/alexandergiles/"
 
 # --- Logo --- #
