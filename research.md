@@ -1,5 +1,5 @@
 ---
 layout: page
-title: About me
-subtitle: -
+title: Research
+permalink: /research/
 ---
