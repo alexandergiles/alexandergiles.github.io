@@ -1,3 +1,13 @@
+---
+layout: post
+title: Cranberried
+subtitle: Can you pass the cranberry sauce?
+cover-img: /assets/img/cranberries.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/cranberries.jpg
+tags: [puzzles]
+---
+
 ## Can You Pass The Cranberry Sauce? 
 Ben and I took a shot at the [FiveThirtyEight](https://fivethirtyeight.com/features/can-you-pass-the-cranberry-sauce/) Thanksgiving puzzle.
 coauthor: Ben Gould
