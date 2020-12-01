@@ -10,7 +10,7 @@ permalink: /research/
 
 ## Midinfrared Nanophotonics
 
-### Ultralow-loss polaritons in isotopically pure boron nitride  
+### Ultralow-loss polaritons in isotopically pure boron nitride, Nature Materials (2018)
 _Abstract_  
 Conventional optical components are limited to size scales much larger than the wavelength of light, as changes to the amplitude, phase and polarization of the electromagnetic fields are accrued gradually along an optical path. However, advances in nanophotonics have produced ultrathin, so-called ‘flat’ optical components that beget abrupt changes in these properties over distances significantly shorter than the free-space wavelength. Although high optical losses still plague many approaches, phonon polariton (PhP) materials have demonstrated long lifetimes for sub-diffractional modes in comparison to plasmon-polariton-based nanophotonics. We experimentally observe a threefold improvement in polariton lifetime through isotopic enrichment of hexagonal boron nitride (hBN). Commensurate increases in the polariton propagation length are demonstrated via direct imaging of polaritonic standing waves by means of infrared nano-optics. Our results provide the foundation for a materials-growth-directed approach aimed at realizing the loss control necessary for the development of PhP-based nanophotonic devices.
 
