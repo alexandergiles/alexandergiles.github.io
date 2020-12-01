@@ -7,7 +7,8 @@ Consider a Thanksgiving celebration with you and 19 of your family members seate
 
 ### Solution
 
-Consider a table with four seats. Numbering the seats as 0 for the starting position, and 1, 2, 3 as the other positions, the cranberry sauce is initially passed to either seat 1 or 3. After only two passes, there is a 50% probability of three seats having received the cranberry sauce. Note that if 3 of 4 seats have received the cranberry sauce, we know which seat gets the sauce last (i.e. we do not need to consider future iterations of that state). We will consider these cases resolved which allows us to simplify the problem and generate a concise chart outlining all of the possible iterations, shading the circles as they are resolved:
+Consider a table with four seats. Numbering the seats as 0 for the starting position, and 1, 2, 3 as the other positions, the cranberry sauce is initially passed to either seat 1 or 3. Note that if 3 of 4 seats have received the cranberry sauce, we know which seat gets the sauce last and do not need to consider future iterations of that state. We will consider these cases _resolved_, allowing us to simplify the problem and generate a concise chart outlining all of the possible iterations, shading the circles as they are resolved:
+
  
 As we determined the last seat to receive the sauce, we can assign a probability to that state (Pn). Summing the probabilities for each seat, after each pass, yields the following table:
 
