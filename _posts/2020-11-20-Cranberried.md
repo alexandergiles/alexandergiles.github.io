@@ -39,5 +39,4 @@ While analytical strategies are not readily scalable to large numbers of seats, 
 
 ![Figure 3](/assets/img/cranberriedf3.png)
 
-Specifically, our 20 person table (10<sup>5</sup> simulations) suggests a probability of 0.0529 ± 0.0025 for each seat. This is well within the margin of error for equal probabilities (1/19 = 0.05263) as proposed above.
-Both the analytical and computational treatments suggest a surprising result: ***Each seat has an equal probability of being the last to receive the cranberry sauce.***
+Specifically, our 20 person table (10<sup>5</sup> simulations) suggests a probability of 0.0529 ± 0.0025 for each seat. This is close agreement for equal probabilities (1/19 = 0.05263) as proposed above. Both the analytical and computational treatments suggest a surprising result: ***Each seat has an equal probability of being the last to receive the cranberry sauce.***
