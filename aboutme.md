@@ -4,6 +4,6 @@ title: About me
 subtitle: -
 ---
 
-![resume](assets/img/home.png)
+![resume](assets/img/Nov2020Resumep1.png)
 
 
