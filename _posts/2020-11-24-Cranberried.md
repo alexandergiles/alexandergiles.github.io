@@ -1,6 +1,5 @@
 ## Can You Pass The Cranberry Sauce? 
 Ben and I took a shot at the [FiveThirtyEight](https://fivethirtyeight.com/features/can-you-pass-the-cranberry-sauce/) Thanksgiving puzzle.
-
 coauthor: Ben Gould
 
 ### Problem
