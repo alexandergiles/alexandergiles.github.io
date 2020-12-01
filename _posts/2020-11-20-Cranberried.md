@@ -31,7 +31,7 @@ The sum of all three columns are equal, and take the form:
   
   $$\sum_{k=1}^{\infty} 2^{-(k+1)} = \frac{1}{3}$$
 
-We can simulate large numbers of such tables and observe a distribution that agrees with the analytical solution shown above. Below is such a simulation, using 106 four person tables, suggesting a probability of 0.334 ± 0.004 for each seat:
+We can simulate large numbers of such tables and observe a distribution that agrees with the analytical solution shown above. Below is such a simulation, using 10<super>6</super> four person tables, suggesting a probability of 0.334 ± 0.004 for each seat:
 
 ![Figure 2](/assets/img/cranberriedf2.png)
 
