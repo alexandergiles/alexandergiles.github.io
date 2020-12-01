@@ -8,6 +8,8 @@ permalink: /research/
 
 ###### DISTRIBUTION STATEMENT A. Approved for public release. Distribution is unlimited.
 
+My work lies at the intersection of materials science and optical physics, seeking to answer fundamental questions and establish foundational knowledge of how light and matter interact with one another. This work is typically communicated through articles published in peer reviewed scientific journals, although those venues can have limited impact on broader audiences. In this section I hope to communicate what we are doing, and why we are doing it, in a manner more digestable to the casual reader. More to come!
+
 ## Midinfrared Nanophotonics
 
 **Ultralow-loss polaritons in isotopically pure boron nitride**  
