@@ -4,6 +4,6 @@ title: About me
 subtitle: -
 ---
 
-![resume](/docs/Nov2020Resume.png)
+![resume](docs/Nov2020Resume.png)
 
 
