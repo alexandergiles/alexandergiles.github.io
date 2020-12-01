@@ -13,10 +13,10 @@ Consider a table with four seats. Numbering the seats as 0 for the starting posi
 
 ![Figure 1](/assets/img/cranberried.png)
  
-As we determined the last seat to receive the sauce, we can assign a probability to that state (P<sub>n</sub>). Summing the probabilities for each seat, after each pass, yields the following table:
+As we determine the last seat to receive the sauce, we assign a probability to that state (_P<sub>n</sub>_). Summing the probabilities for each seat, after each pass, yields the following table:
 
 
-| Passes | 1     | 2     | 3     | Probability resolved |
+| Passes | last = 1     | last = 2     | last = 3     | Probability resolved |
 | :-:    |:-:    |:-:    | :-:   | :-: |
 | 2      | 1/4   |       | 1/4   | 1/2 |
 | 3      |       |   2/8 |       | 3/4 |
