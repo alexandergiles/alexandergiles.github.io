@@ -2,9 +2,9 @@
 layout: post
 title: Cranberried
 subtitle: Can you pass the cranberry sauce?
-cover-img: /assets/img/cranberries.png
+cover-img: /assets/img/cranberries.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/cranberries.png
+share-img: /assets/img/cranberries.jpg
 tags: [puzzles]
 ---
 
