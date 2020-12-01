@@ -13,7 +13,6 @@ Consider a table with four seats. Numbering the seats as 0 for the starting posi
  
 As we determined the last seat to receive the sauce, we can assign a probability to that state (Pn). Summing the probabilities for each seat, after each pass, yields the following table:
 
-<center>
 
 | Passes | 1     | 2     | 3     | Probability resolved |
 | :-:    |:-:    |:-:    | :-:   | :-: |
@@ -25,8 +24,6 @@ As we determined the last seat to receive the sauce, we can assign a probability
 | 7      |       | 2/64  |       |63/64|
 | 8      | 1/256 |       | 1/256 |127/128|
 | 9      |       | 2/256 |       |255/256|
-
-</center>
 
   Note that the sum of all three columns are equal. In fact, the sum for each seat is equal to:
   
